@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/3ea3c300ce5c4a408dc630da90e096f9/artifacts
+deleted_time: 1747677804788
+end_time: 1747648887847
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 3ea3c300ce5c4a408dc630da90e096f9
+run_name: overjoyed-colt-739
+run_uuid: 3ea3c300ce5c4a408dc630da90e096f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648887756
+status: 3
+tags: []
+user_id: ASUS

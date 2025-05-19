@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/32fb409fceb54b0f8a6a11ee91875949/artifacts
+deleted_time: 1747648598467
+end_time: 1747648215036
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 32fb409fceb54b0f8a6a11ee91875949
+run_name: sneaky-ape-562
+run_uuid: 32fb409fceb54b0f8a6a11ee91875949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648214957
+status: 3
+tags: []
+user_id: ASUS

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/5b1c6fd082a048c98763a0c8dc2fdbf2/artifacts
+deleted_time: 1747646254053
+end_time: 1747641908396
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 5b1c6fd082a048c98763a0c8dc2fdbf2
+run_name: mercurial-hog-515
+run_uuid: 5b1c6fd082a048c98763a0c8dc2fdbf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747641908365
+status: 3
+tags: []
+user_id: ASUS

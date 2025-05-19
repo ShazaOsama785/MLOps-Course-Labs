@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/764a6121d7eb4f9d8df2fbec740f572d/artifacts
+deleted_time: 1747677804775
+end_time: 1747649573697
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 764a6121d7eb4f9d8df2fbec740f572d
+run_name: traveling-smelt-860
+run_uuid: 764a6121d7eb4f9d8df2fbec740f572d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649573550
+status: 3
+tags: []
+user_id: ASUS

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/254171b4bf99409db38e8ea1298c0b7b/artifacts
+deleted_time: 1747648598568
+end_time: 1747642130860
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 254171b4bf99409db38e8ea1298c0b7b
+run_name: inquisitive-seal-287
+run_uuid: 254171b4bf99409db38e8ea1298c0b7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747642114117
+status: 3
+tags: []
+user_id: ASUS

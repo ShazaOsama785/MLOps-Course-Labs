@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/13eb6afd71af4132b857da93319475ef/artifacts
+deleted_time: 1747647171587
+end_time: 1747646376167
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 13eb6afd71af4132b857da93319475ef
+run_name: valuable-gnat-923
+run_uuid: 13eb6afd71af4132b857da93319475ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747646376072
+status: 3
+tags: []
+user_id: ASUS

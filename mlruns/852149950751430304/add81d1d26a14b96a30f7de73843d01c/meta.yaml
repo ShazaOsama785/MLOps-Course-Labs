@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/add81d1d26a14b96a30f7de73843d01c/artifacts
+deleted_time: 1747646254017
+end_time: 1747646116827
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: add81d1d26a14b96a30f7de73843d01c
+run_name: sassy-crane-476
+run_uuid: add81d1d26a14b96a30f7de73843d01c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747646116731
+status: 3
+tags: []
+user_id: ASUS

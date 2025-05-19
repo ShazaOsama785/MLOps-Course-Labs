@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747681680693
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1747681693965
+name: Staging_model
+run_id: 40d62cf252e54b2db6331c753ee0ebe1
+run_link: ''
+source: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/40d62cf252e54b2db6331c753ee0ebe1/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/40d62cf252e54b2db6331c753ee0ebe1/artifacts/random_forest_model
+user_id: null
+version: 1

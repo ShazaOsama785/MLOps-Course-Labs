@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/03da44ddd00d42088cc4f672134110a7/artifacts
+deleted_time: 1747677804820
+end_time: 1747648881936
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 03da44ddd00d42088cc4f672134110a7
+run_name: honorable-tern-137
+run_uuid: 03da44ddd00d42088cc4f672134110a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648881835
+status: 3
+tags: []
+user_id: ASUS

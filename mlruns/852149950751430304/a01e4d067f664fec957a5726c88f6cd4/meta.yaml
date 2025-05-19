@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/a01e4d067f664fec957a5726c88f6cd4/artifacts
+deleted_time: 1747647194372
+end_time: 1747646742262
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: a01e4d067f664fec957a5726c88f6cd4
+run_name: crawling-penguin-496
+run_uuid: a01e4d067f664fec957a5726c88f6cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747646742159
+status: 3
+tags: []
+user_id: ASUS

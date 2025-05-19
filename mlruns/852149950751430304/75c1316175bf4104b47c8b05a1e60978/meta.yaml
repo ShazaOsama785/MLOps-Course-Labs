@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/75c1316175bf4104b47c8b05a1e60978/artifacts
+deleted_time: 1747677804778
+end_time: 1747649566001
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 75c1316175bf4104b47c8b05a1e60978
+run_name: vaunted-finch-40
+run_uuid: 75c1316175bf4104b47c8b05a1e60978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747649565865
+status: 3
+tags: []
+user_id: ASUS

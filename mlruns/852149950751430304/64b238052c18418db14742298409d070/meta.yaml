@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/64b238052c18418db14742298409d070/artifacts
+deleted_time: 1747677804841
+end_time: 1747648847986
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 64b238052c18418db14742298409d070
+run_name: nosy-frog-662
+run_uuid: 64b238052c18418db14742298409d070
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648847922
+status: 3
+tags: []
+user_id: ASUS

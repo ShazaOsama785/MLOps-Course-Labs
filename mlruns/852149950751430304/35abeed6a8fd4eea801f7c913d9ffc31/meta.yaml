@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/35abeed6a8fd4eea801f7c913d9ffc31/artifacts
+deleted_time: 1747647194372
+end_time: 1747646768322
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 35abeed6a8fd4eea801f7c913d9ffc31
+run_name: skittish-kite-47
+run_uuid: 35abeed6a8fd4eea801f7c913d9ffc31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747646768165
+status: 3
+tags: []
+user_id: ASUS

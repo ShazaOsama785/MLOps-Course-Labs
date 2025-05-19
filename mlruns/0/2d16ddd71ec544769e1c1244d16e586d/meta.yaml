@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2d16ddd71ec544769e1c1244d16e586d/artifacts
+end_time: 1747662032555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d16ddd71ec544769e1c1244d16e586d
+run_name: luxuriant-deer-265
+run_uuid: 2d16ddd71ec544769e1c1244d16e586d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747662032441
+status: 3
+tags: []
+user_id: ASUS

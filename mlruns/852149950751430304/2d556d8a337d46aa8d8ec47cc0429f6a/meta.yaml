@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/2d556d8a337d46aa8d8ec47cc0429f6a/artifacts
+deleted_time: 1747648598511
+end_time: 1747648050906
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 2d556d8a337d46aa8d8ec47cc0429f6a
+run_name: classy-zebra-759
+run_uuid: 2d556d8a337d46aa8d8ec47cc0429f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648050842
+status: 3
+tags: []
+user_id: ASUS

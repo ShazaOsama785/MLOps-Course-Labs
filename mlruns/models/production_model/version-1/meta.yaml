@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747681519790
+current_stage: Production
+description: ''
+last_updated_timestamp: 1747681624648
+name: production_model
+run_id: 14026995ae804b7fbe0d227595b5085a
+run_link: ''
+source: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/14026995ae804b7fbe0d227595b5085a/artifacts/svm_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/14026995ae804b7fbe0d227595b5085a/artifacts/svm_model
+user_id: null
+version: 1

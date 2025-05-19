@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/9952dc4fea3f40098bd498b0fd1dd5ed/artifacts
+deleted_time: 1747648598467
+end_time: 1747648220832
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 9952dc4fea3f40098bd498b0fd1dd5ed
+run_name: logistic_regression
+run_uuid: 9952dc4fea3f40098bd498b0fd1dd5ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648215052
+status: 3
+tags: []
+user_id: ASUS

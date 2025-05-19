@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304
+creation_time: 1747640721159
+experiment_id: '852149950751430304'
+last_update_time: 1747640721159
+lifecycle_stage: active
+name: bank_churn_experiment

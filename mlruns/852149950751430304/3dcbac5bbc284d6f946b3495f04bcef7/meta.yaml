@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/3dcbac5bbc284d6f946b3495f04bcef7/artifacts
+deleted_time: 1747648598467
+end_time: 1747648220913
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 3dcbac5bbc284d6f946b3495f04bcef7
+run_name: amusing-mouse-954
+run_uuid: 3dcbac5bbc284d6f946b3495f04bcef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648220848
+status: 3
+tags: []
+user_id: ASUS

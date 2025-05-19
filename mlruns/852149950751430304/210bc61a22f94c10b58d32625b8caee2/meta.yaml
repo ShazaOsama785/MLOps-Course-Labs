@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/210bc61a22f94c10b58d32625b8caee2/artifacts
+deleted_time: 1747648598542
+end_time: 1747647373074
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 210bc61a22f94c10b58d32625b8caee2
+run_name: delightful-bee-811
+run_uuid: 210bc61a22f94c10b58d32625b8caee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747647372963
+status: 3
+tags: []
+user_id: ASUS

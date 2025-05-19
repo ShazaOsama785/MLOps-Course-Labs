@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/4614e5ce5abb49c2835b1d44c85cf306/artifacts
+deleted_time: 1747646254018
+end_time: 1747645904781
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 4614e5ce5abb49c2835b1d44c85cf306
+run_name: gifted-sow-614
+run_uuid: 4614e5ce5abb49c2835b1d44c85cf306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747645904701
+status: 3
+tags: []
+user_id: ASUS

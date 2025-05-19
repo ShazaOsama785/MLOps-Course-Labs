@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/f99919cd97334d0d98d6b9f1c673740e/artifacts
+deleted_time: 1747648598534
+end_time: 1747647380785
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: f99919cd97334d0d98d6b9f1c673740e
+run_name: unruly-shrimp-961
+run_uuid: f99919cd97334d0d98d6b9f1c673740e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747647380643
+status: 3
+tags: []
+user_id: ASUS

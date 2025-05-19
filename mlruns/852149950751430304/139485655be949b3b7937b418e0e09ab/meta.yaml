@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/139485655be949b3b7937b418e0e09ab/artifacts
+deleted_time: 1747677804808
+end_time: 1747648854228
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 139485655be949b3b7937b418e0e09ab
+run_name: hilarious-goat-964
+run_uuid: 139485655be949b3b7937b418e0e09ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747648854124
+status: 3
+tags: []
+user_id: ASUS

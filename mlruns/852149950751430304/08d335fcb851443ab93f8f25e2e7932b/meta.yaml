@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/08d335fcb851443ab93f8f25e2e7932b/artifacts
+deleted_time: 1747646254026
+end_time: 1747645690041
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 08d335fcb851443ab93f8f25e2e7932b
+run_name: placid-boar-32
+run_uuid: 08d335fcb851443ab93f8f25e2e7932b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747645689946
+status: 3
+tags: []
+user_id: ASUS

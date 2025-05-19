@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9382f2c4ece74fe494321882e0323b1b/artifacts
+end_time: 1747661644199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9382f2c4ece74fe494321882e0323b1b
+run_name: auspicious-stag-424
+run_uuid: 9382f2c4ece74fe494321882e0323b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747661643856
+status: 3
+tags: []
+user_id: ASUS

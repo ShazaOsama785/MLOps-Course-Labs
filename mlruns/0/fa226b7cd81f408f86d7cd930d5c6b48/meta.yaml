@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fa226b7cd81f408f86d7cd930d5c6b48/artifacts
+end_time: 1747652682590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa226b7cd81f408f86d7cd930d5c6b48
+run_name: big-foal-599
+run_uuid: fa226b7cd81f408f86d7cd930d5c6b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747652682482
+status: 3
+tags: []
+user_id: ASUS

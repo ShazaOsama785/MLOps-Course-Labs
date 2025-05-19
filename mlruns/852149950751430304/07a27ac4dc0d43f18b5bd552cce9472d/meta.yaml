@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/07a27ac4dc0d43f18b5bd552cce9472d/artifacts
+deleted_time: 1747647171577
+end_time: 1747646736260
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 07a27ac4dc0d43f18b5bd552cce9472d
+run_name: indecisive-wasp-540
+run_uuid: 07a27ac4dc0d43f18b5bd552cce9472d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747646736181
+status: 3
+tags: []
+user_id: ASUS

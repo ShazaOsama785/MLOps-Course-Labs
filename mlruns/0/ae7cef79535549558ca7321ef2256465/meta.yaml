@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ae7cef79535549558ca7321ef2256465/artifacts
+end_time: 1747668663801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae7cef79535549558ca7321ef2256465
+run_name: wise-auk-843
+run_uuid: ae7cef79535549558ca7321ef2256465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747668663693
+status: 3
+tags: []
+user_id: ASUS

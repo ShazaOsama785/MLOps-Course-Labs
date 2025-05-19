@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/d5761f5ff78440eeaa405595fdc1a19c/artifacts
+end_time: 1747681050997
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: active
+run_id: d5761f5ff78440eeaa405595fdc1a19c
+run_name: logistic_run
+run_uuid: d5761f5ff78440eeaa405595fdc1a19c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747681044031
+status: 3
+tags: []
+user_id: ASUS

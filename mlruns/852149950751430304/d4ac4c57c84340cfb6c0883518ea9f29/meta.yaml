@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/d4ac4c57c84340cfb6c0883518ea9f29/artifacts
+deleted_time: 1747646254053
+end_time: 1747641833684
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: d4ac4c57c84340cfb6c0883518ea9f29
+run_name: legendary-mouse-597
+run_uuid: d4ac4c57c84340cfb6c0883518ea9f29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747641833637
+status: 3
+tags: []
+user_id: ASUS

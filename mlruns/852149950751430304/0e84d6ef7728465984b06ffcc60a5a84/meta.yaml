@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ASUS/MLOps-Course-Labs/mlruns/852149950751430304/0e84d6ef7728465984b06ffcc60a5a84/artifacts
+deleted_time: 1747646254080
+end_time: 1747640722800
+entry_point_name: ''
+experiment_id: '852149950751430304'
+lifecycle_stage: deleted
+run_id: 0e84d6ef7728465984b06ffcc60a5a84
+run_name: rogue-bass-97
+run_uuid: 0e84d6ef7728465984b06ffcc60a5a84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747640722713
+status: 3
+tags: []
+user_id: ASUS
