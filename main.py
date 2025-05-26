@@ -75,3 +75,6 @@ def predict(data: PredictionInput):
     except Exception as e:
         logger.error(f"Prediction failed: {e}")
         raise HTTPException(status_code=400, detail=str(e))
+
+ 
+Instrumentator().instrument(app).expose(app)
