@@ -30,7 +30,7 @@ jobs:
         uses: docker/login-action@v3
         with:
           username: SHAZAOSAMA
-          password: 50so50shaza
+          password: 50so50shaz
 
       - name: 🛠️ Build Docker Image
         run: docker build -t shazaosama/churn-api:latest .
