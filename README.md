@@ -1,3 +1,4 @@
+
 # Bank Customer Churn Prediction with MLflow
 This project aims to predict whether a bank customer will leave the service (churn) using various machine learning models. It includes full support for data preprocessing, training, evaluation, and model tracking/logging via MLflow.
 
@@ -95,3 +96,11 @@ column_transformer.pkl: Saved transformer for consistent inference
 confusion_matrix_*.png: Visual evaluation
 
 MLflow logs all model artifacts and metrics
+=======
+# MLOps Course Labs
+
+Welcome to the lab repository for the [MLOps Course](https://github.com/Heba-Atef99/MLOps-Course).
+
+Throughout this hands-on journey, you'll develop a **Bank Customer Churn Prediction** application—starting from the research phase and progressing through the full MLOps lifecycle, all the way to deployment.
+
+
