@@ -33,7 +33,8 @@ jobs:
          password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: 🛠️ Build Docker Image
-        run: docker build -t shazaosama/churn-api:latest .
-
+        run: docker build -t shazaosama819/churn-api:latest .
+      
       - name: 🚀 Push Docker Image to Docker Hub
-        run: docker push shazaosama/churn-api:latest
+        run: docker push shazaosama819/churn-api:latest
+
